@@ -1,6 +1,6 @@
 category: javascript
 title: javascript basic
-lectures: Lee
+lectures: Park
 related:
 - typescript
 - React
