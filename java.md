@@ -3,3 +3,4 @@ title: java advance
 lectures: Jin
 related:
 - xcss
+- eclipse
